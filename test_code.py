@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import logging
 
-for i in range(0,5):
+for i in range(0,2):
     i += 1
     print(f"i: {i}")
 
